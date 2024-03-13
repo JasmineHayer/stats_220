@@ -35,7 +35,7 @@ The following functions will be used:
 5. Brent Faiyaz - *DEAD MAN WALKING* ☠️
 
 <p align="center">
-  <img width="460" height="300" src="file:///Users/jasminehayer/Desktop/arlo.png">
+  <img width="460" height="300" src="arlo.png">
 </p>
 
 
