@@ -34,14 +34,24 @@ The following functions will be used:
 4. Ms. Lauryn Hill - *Killing Me Softly With His Song* 🎷
 5. Brent Faiyaz - *DEAD MAN WALKING* ☠️
 
-<p align="center">
-  <img width="460" height="300" src="arlo.png">
-</p>
+**Facts About My Dog, ARLO 🐶**
+
+<img align="right" width="300" height="300" src="https://i.ibb.co/gVsBSzt/final.png">
+
+* Loves to run away
+* HATES cats (specifically white ones)
+* Will do ANYTHING for food
+* Gift giver (rats, birds etc. (dead/alive) )
+* Knows how to play dead
+* Protects his home
+
 
 
 <!--- Use of Website Link --->
 
+## My Project
 
+Click HERE to view my project. 
 
 
 
