@@ -36,12 +36,12 @@ The following functions will be used:
 
 **Facts About My Dog, ARLO 🐶**
 
-<img align="right" width="300" height="300" src="https://i.ibb.co/gVsBSzt/final.png">
+<img align="right" width="200" height="200" src="https://i.ibb.co/gVsBSzt/final.png">
 
 * Loves to run away
-* HATES cats (specifically white ones)
+* HATES cats *(specifically white ones)*
 * Will do ANYTHING for food
-* Gift giver (rats, birds etc. (dead/alive) )
+* Gift giver *(rats, birds etc. (dead/alive) )*
 * Knows how to play dead
 * Protects his home
 
