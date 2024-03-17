@@ -23,7 +23,7 @@ The following functions will be used:
 * use of comments `#note to self`
 * use of indenting and "white space"
 
-## More About Jasmine
+## More About Me 💁‍♀️
 
 <!--- Use of Bold --->
 **Top Artists and Songs 🎶**
