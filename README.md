@@ -18,10 +18,10 @@ The following functions will be used:
 <img align="right" width="550" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png">
 
 - `c()`, `image_blank()`, `image_read()`, `image_annotate()`, `image_append()`
- use of pipes `%>%`
-* use of names objects `meme <- image_read(url)`
-* use of comments `#note to self`
-* use of indenting and "white space"
+- use of pipes `%>%`
+- use of names objects `meme <- image_read(url)`
+- use of comments `#note to self`
+- use of indenting and "white space"
 
 ## More About Me 💁‍♀️
 I am a currently a student at the University of Auckland studying a BSc/LLB Conjoint, majoring in Psychology. I am orginally from Hawke's Bay ☀️ where I was born and raised. My hobbies include; playing the guitar, kareoke, reading and biking. 
@@ -38,9 +38,7 @@ I am a currently a student at the University of Auckland studying a BSc/LLB Conj
 
 <!--- Use of Website Link --->
 
-## My Project
-
-Click HERE to view my project. 
+Click [HERE](https://www.youtube.com/watch?v=YKuHdOxj46I) to listen to a bangeRRRR!
 
 
 
