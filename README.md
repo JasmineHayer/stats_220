@@ -24,28 +24,17 @@ The following functions will be used:
 * use of indenting and "white space"
 
 ## More About Me 💁‍♀️
+I am a currently a student at the University of Auckland studying a BSc/LLB Conjoint, majoring in Psychology. I am orginally from Hawke's Bay ☀️ where I was born and raised. My hobbies include; playing the guitar, kareoke, reading and biking. 
 
 <!--- Use of Bold --->
-**Top Artists and Songs 🎶**
+
+**My Top Artists and Songs 🎶**
 
 1. SZA - *Snooze* 💤
 2. Steve Lacy - *Dark Red* 🎸
 3. Sonder - *One Night Only* 🌃
 4. Ms. Lauryn Hill - *Killing Me Softly With His Song* 🎷
 5. Brent Faiyaz - *DEAD MAN WALKING* ☠️
-
-**Facts About My Dog, ARLO 🐶**
-
-<img align="right" width="200" height="200" src="https://i.ibb.co/gVsBSzt/final.png">
-
-* Loves to run away
-* HATES cats *(specifically white ones)*
-* Will do ANYTHING for food
-* Gift giver *(rats, birds etc. (dead/alive) )*
-* Knows how to play dead
-* Protects his home
-
-
 
 <!--- Use of Website Link --->
 
