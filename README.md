@@ -44,6 +44,8 @@ I am a currently a student at the University of Auckland studying a BSc/LLB Conj
 
 Click [HERE](https://www.youtube.com/watch?v=YKuHdOxj46I) to listen to a bangeRRRR!
 
+[GitHub Repo](https://github.com/JasmineHayer/stats_220.git)
+
 
 
 
