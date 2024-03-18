@@ -17,8 +17,8 @@ The following functions will be used:
 
 <img align="right" width="550" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png">
 
-* `c()`, `image_blank()`, `image_read()`, `image_annotate()`, `image_append()`
-* use of pipes `%>%`
+- `c()`, `image_blank()`, `image_read()`, `image_annotate()`, `image_append()`
+ use of pipes `%>%`
 * use of names objects `meme <- image_read(url)`
 * use of comments `#note to self`
 * use of indenting and "white space"
