@@ -1,10 +1,13 @@
 <!--- First Level of Heading --->
+
 # `STATS 220` : Data Technologies 📈 <img align="right" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/University_of_Auckland_logo.png">
 
 <!--- Second Level of Heading --->
+
 ### Repository for STATS 220 : 2024 Semester One
 
 <!--- Use of Italics --->
+
 *The purpose of this reposotory is to display work produced for the the course STATS 220 throughout the semester.*
 
 ## Project One  
@@ -24,6 +27,7 @@ The following functions will be used:
 - use of indenting and "white space"
 
 ## More About Me 💁‍♀️
+
 I am a currently a student at the University of Auckland studying a BSc/LLB Conjoint, majoring in Psychology. I am orginally from Hawke's Bay ☀️ where I was born and raised. My hobbies include; playing the guitar, kareoke, reading and biking. 
 
 <!--- Use of Bold --->
